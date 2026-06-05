@@ -3,4 +3,3 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tupert&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tupert&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tupert&layout=compact&theme=radical)
